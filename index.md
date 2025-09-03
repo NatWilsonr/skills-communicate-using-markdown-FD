@@ -1,3 +1,10 @@
+- [ ] No olvides sonreír
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
 # Prueba 1
 ## Prueba 2
 ### Prueba 3
@@ -24,3 +31,4 @@ SELECT * FROM
 ``` Java
 int num=12
 ```
+
